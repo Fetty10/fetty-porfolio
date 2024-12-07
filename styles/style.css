@@ -112,6 +112,10 @@ nav li.active a {
   padding: 15px 30px;
   cursor: pointer;
 }
+.btn-branding-project:hover {
+  background: var(--branding-color);
+  color: white;
+}
 .project-description {
   padding: 90px 30px;
 }
